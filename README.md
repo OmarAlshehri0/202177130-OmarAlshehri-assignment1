@@ -24,4 +24,4 @@ The website includes:
 
 1. Clone the repository:
    ```bash
-   git clone <your-repository-link>
+   git clone <https://github.com/OmarAlshehri0/202177130-OmarAlshehri-assignment1.git>
