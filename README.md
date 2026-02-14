@@ -6,8 +6,8 @@ It serves as the foundation for my professional portfolio and demonstrates core 
 
 The website includes:
 - About Me section
-- Projects section 
-- Contact form 
+- Projects section (2 sample projects)
+- Contact form (frontend only)
 - Smooth scrolling with active navigation highlighting
 
 ---
@@ -16,7 +16,7 @@ The website includes:
 - HTML5
 - CSS3 (Flexbox, Grid, Media Queries)
 - JavaScript (DOM manipulation)
-- GitHub
+- Git & GitHub
 
 ---
 
@@ -24,4 +24,4 @@ The website includes:
 
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/OmarAlshehri0/202177130-OmarAlshehri-assignment1.git>
+   git clone https://github.com/OmarAlshehri0/202177130-OmarAlshehri-assignment1.git
