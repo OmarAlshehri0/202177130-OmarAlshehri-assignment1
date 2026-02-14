@@ -3,46 +3,37 @@
 ## Project Structure
 
 ### index.html
-Contains the main structure of the portfolio website:
+Contains the main sections:
 - Navigation
-- About section
-- Projects section
+- About
+- Projects
 - Contact form
 
 ### css/styles.css
-Responsible for:
-- Layout styling
+Handles:
+- Layout and spacing
 - Responsive design using media queries
-- Flexbox navigation layout
-- Grid-based project layout
+- Navigation styling using Flexbox
+- Projects layout using Grid
 
 ### js/script.js
-Handles:
-- Smooth scrolling behavior
-- Active navigation highlighting while scrolling
+Adds interactivity:
+- Smooth scrolling
+- Active navigation link highlighting
 
 ---
 
-## Responsive Design Explanation
+## Responsive Design
 
-The website uses:
+The layout changes depending on screen size:
 
-- **Flexbox** for navigation alignment
-- **CSS Grid** for the projects section
-- **Media queries**:
-  - Below 600px → stacked mobile navigation
-  - Above 768px → two-column project grid
-
-This ensures compatibility across desktop, tablet, and mobile devices.
+- On small screens, navigation links stack vertically.
+- On larger screens, projects are displayed in two columns.
+- Flexbox and CSS Grid were used to control layout.
 
 ---
 
-## JavaScript Feature Explanation
+## JavaScript Feature
 
-The script listens to scroll events and:
-
-1. Detects which section is currently visible.
-2. Matches the section ID with the navigation link.
-3. Adds an "active" class to highlight the current section.
-
-This improves user experience and navigation clarity.
+The JavaScript code listens to scroll events.  
+It detects which section is visible and adds an "active" class to the matching navigation link.
