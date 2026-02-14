@@ -13,9 +13,9 @@ The website includes:
 ---
 
 ## Technologies Used
-- HTML5
-- CSS3 (Flexbox, Grid, Media Queries)
-- JavaScript (DOM manipulation)
+- HTML
+- CSS
+- JavaScript 
 - GitHub
 
 ---
